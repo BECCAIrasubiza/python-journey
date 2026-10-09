@@ -26,3 +26,9 @@ def full_name(first, last):
     return first + " " + last
 name= full_name("Rebecca", "Smith")
 print("Full name:", name)
+
+def get_greeting(n):
+  return n 
+n="Hello from a function"
+
+print(get_greeting(n))
