@@ -30,9 +30,24 @@ print("Python version:", platform.python_version())
 #statistics
 import statistics
 
-data = [1, 2, 3, 4, 5]
+data = [ 4,5,6,7,1,2,9,34,2,5]
 print("Mean:", statistics.mean(data))
 print("Median:", statistics.median(data))
 print("Mode:", statistics.mode(data))
-print("Standard deviation:", statistics.stdev(data))
-print("Variance:", statistics.variance(data))
+
+print("Population variance:", statistics.pvariance(data))
+print("Sample variance:", statistics.variance(data))
+
+print("Population standard deviation:", statistics.pstdev(data))
+
+print("Sample standard deviation:", statistics.stdev(data))
+
+#sys module
+import sys
+
+if len(sys.argv) < 2:
+    sys.exit("Too few arguments")
+elif len(sys.argv) > 2:
+    sys.exit("Too many arguments")
+
+print("hello, my name is", sys.argv[7])

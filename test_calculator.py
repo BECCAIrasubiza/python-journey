@@ -1,4 +1,6 @@
-from calculator import square
+import pytest
+
+from day1_assert_pytest.calculator import square
 
 def test_positive():
     assert square(2) == 4
