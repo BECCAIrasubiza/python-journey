@@ -1,0 +1,11 @@
+STUDENT REPORT
+==============
+Number of students: 4
+Average score: 88.50
+Highest scorer: Patrick (99)
+
+STUDENTS
+Amina | Math | 85
+Eric | Math | 72
+Rebecca | Math | 98
+Patrick | Math | 99
