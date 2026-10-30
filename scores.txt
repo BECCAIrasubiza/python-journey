@@ -1,0 +1,7 @@
+
+Amina,78
+Eric,64
+Diane,91
+Patrick,49
+Maya,85
+Kevin,70

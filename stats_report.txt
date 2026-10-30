@@ -1,0 +1,19 @@
+STUDENT SCORE REPORT
+====================
+Number of students: 6
+Minimum score: 49.00
+Maximum score: 91.00
+Mean score: 72.83
+Median score: 74.00
+
+TOP 3 STUDENTS
+--------------
+1. Diane: 91
+2. Maya: 85
+3. Amina: 78
+
+SCORE BANDS
+-----------
+0-49: 1
+50-69: 1
+70-100: 4
